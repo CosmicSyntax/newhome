@@ -23,6 +23,7 @@
 2. [ ] Stairway 
 	- [ ] Rails are loose 
 	- [ ] Rails has stains on it 
+	- [ ] Basement rail damage near the base where the carpet meets
 	- [ ] Paint clean up (especially downstairs landing area) 
 	- [ ] Board that protrudes out, replace and refinish 
 	- [ ] Refinish general 
