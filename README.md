@@ -2,9 +2,9 @@
 
 ## Exterior:
 
-1. [ ] Two places near the front door 
+1. [ ] General Issues
 	- [x] Left of front door (vinyl imperfection) 
-	- [ ] Right roof line 
+	- [ ] Right roof line (wood chipped or missing)
 	- [ ] Right side of the front door (vinyl imperfection)
 2. [x] Metal roof above the porch (looks like nail is underneath it) 
 3. [ ] Paint needed 
@@ -12,7 +12,7 @@
 	- [ ] Front black rails 
 4. [x] Front walkway concrete is clipped 
 5. [x] Dead grass and dead shrubbery 
-6. [ ] Paint cleanup around garage 
+6. [x] Paint cleanup around garage 
 7. [x] Concrete issue near right-side of garage near the floor 
 8. [x] Floor slate veneer has weird plastic plates embedded everywhere 
 9. [ ] Downspouts disconnected (left side of house rear) 
@@ -23,7 +23,7 @@
 
 1. [ ] Floors
 	- [ ] Squeeky panel near kitchen sink
-	- [ ] Clean up
+	- [ ] Clean up (white drywall residue and possible glue)
 2. [ ] Stairway 
 	- [x] Rails are loose 
 	- [x] Rails has stains on it 
@@ -48,7 +48,7 @@
 	- [x] Rubber stopper missing 
 8. [ ] HVAC
 	- [ ] Airflow issue
-	- [ ] Knocking noise near kitchen wall
+	- [ ] Knocking noise near kitchen wall; really loud in master bed
 9. [ ] Drywall issues 
 	- [ ] In foyer walls and near window 
 	- [ ] Garage right side (window side) 
