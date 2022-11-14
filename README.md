@@ -63,6 +63,7 @@
 15. [ ] Windows and Sliding glass door
 	- [ ] Weather strip
 	- [ ] Relacements
+16. [ ] Chipped island countertop
 
 ## Interior Upstairs:
 
