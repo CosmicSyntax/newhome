@@ -21,8 +21,9 @@
 
 ## Interior Downstairs + Basement:
 
-1. [ ] Floors (both first and second floor) 
+1. [ ] Floors
 	- [ ] Squeeky panel near kitchen sink
+	- [ ] Clean up
 2. [ ] Stairway 
 	- [x] Rails are loose 
 	- [x] Rails has stains on it 
@@ -56,9 +57,12 @@
 11. [ ] Four panel glass door, left screen door hard to open 
 12. [ ] Garage door does not close when sun is shining directly to it 
 13. [ ] Framing issues
-	- [ ] Guest bedroom
-	- [ ] Landing Area
-14. Fireplace...
+	- [ ] Guest bedroom floor
+	- [ ] Landing Area downstairs
+14. [ ] Fireplace still rattles
+15. [ ] Windows and Sliding glass door
+	- [ ] Weather strip
+	- [ ] Relacements
 
 ## Interior Upstairs:
 
