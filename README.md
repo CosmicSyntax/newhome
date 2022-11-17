@@ -3,7 +3,6 @@
 ## Exterior:
 
 1. [ ] General Issues
-	- [x] Left of front door (vinyl imperfection) 
 	- [ ] Right roof line (wood chipped or missing)
 	- [ ] Right side of the front door (vinyl imperfection)
 2. [ ] Painting needed 
