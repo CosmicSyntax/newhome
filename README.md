@@ -49,6 +49,7 @@
 8. [ ] HVAC
 	- [ ] Airflow issue
 	- [ ] Knocking noise near kitchen wall; really loud in master bed
+		- [ ] Also in the middle of the main floor
 9. [ ] Drywall issues 
 	- [ ] In foyer walls and near window 
 	- [ ] Garage right side (window side) 
@@ -64,6 +65,7 @@
 	- [ ] Weather strip
 	- [ ] Relacements
 16. [ ] Chipped island countertop
+17. [ ] Trash!!!
 
 ## Interior Upstairs:
 
