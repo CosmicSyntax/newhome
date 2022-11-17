@@ -25,11 +25,12 @@
 	- [ ] Squeeky panel near kitchen sink
 	- [ ] Clean up (white drywall residue and possible glue)
 2. [ ] Stairway 
+	- [ ] Board that protrudes out, replace and refinish 
+	- [ ] Cracked stairs and pins sticking out
 	- [x] Rails are loose 
 	- [x] Rails has stains on it 
 	- [x] Basement rail damage near the base where the carpet meets
 	- [ ] Paint clean up (especially downstairs landing area) 
-	- [ ] Board that protrudes out, replace and refinish 
 	- [x] Refinish general 
  		- [x] Nails sticking out 
  		- [x] Dented and scratches 
