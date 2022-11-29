@@ -38,3 +38,5 @@
 	- [ ] Weather strip
 	- [ ] Relacements
 9. [ ] Chipped island countertop
+10. [ ] Cabinet door
+11. [ ] Tub issue
